@@ -1,0 +1,11 @@
+header{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f5d03e;
+    padding: 10px 10px;
+    align-items: center;
+    color: white;
+    
+}
+    
